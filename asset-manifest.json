@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-react-toggle/static/css/main.3c693707.css",
+    "main.js": "/test-react-toggle/static/js/main.ba06f42f.js",
+    "static/js/787.6fd8a56a.chunk.js": "/test-react-toggle/static/js/787.6fd8a56a.chunk.js",
+    "index.html": "/test-react-toggle/index.html",
+    "main.3c693707.css.map": "/test-react-toggle/static/css/main.3c693707.css.map",
+    "main.ba06f42f.js.map": "/test-react-toggle/static/js/main.ba06f42f.js.map",
+    "787.6fd8a56a.chunk.js.map": "/test-react-toggle/static/js/787.6fd8a56a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c693707.css",
+    "static/js/main.ba06f42f.js"
+  ]
+}
